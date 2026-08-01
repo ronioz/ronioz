@@ -24,7 +24,7 @@
 - 🎓 BSc Computer Science @ **Eötvös Loránd University**, Budapest — Stipendium Hungaricum scholar, GPA 4.9/5.0
 - 💼 Software Engineering Intern @ **Credo Bank** (Summer 2026)
 - 🧠 Core focus: C/C++ systems programming, algorithms & data structures
-- 🤖 Exploring: Python and machine learning
+- 🤖 Exploring: Python and Machine Learning
 - 📍 Budapest, Hungary / Tbilisi, Georgia
 - 🌱 Open to junior/entry-level opportunities
 
