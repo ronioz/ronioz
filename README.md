@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/ronioz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=560&lines=Building+things+from+scratch+in+C+%2B%2B;Dijkstra's+algorithm+%E2%86%92+chess+engines+%E2%86%92+audio+DSP;Currently+exploring+machine+learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=560&lines=Building+things+from+scratch+in+C++%2B%2B;Dijkstra's+algorithm+%E2%86%92+chess+engines+%E2%86%92+audio+DSP;Currently+exploring+machine+learning" alt="Typing SVG" />
   </a>
 </p>
 
@@ -46,8 +46,4 @@ I'm a student building a foundation in classical algorithms and systems-level pr
   <a href="https://www.linkedin.com/in/andronosipov/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ronioz&style=for-the-badge&color=2c5364" alt="Profile views"/>
 </p>
