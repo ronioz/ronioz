@@ -23,8 +23,7 @@
 
 - 🎓 BSc Computer Science @ **Eötvös Loránd University**, Budapest — Stipendium Hungaricum scholar, GPA 4.9/5.0
 - 💼 Software Engineering Intern @ **Credo Bank** (Summer 2026)
-- 🧠 Core focus: C/C++/Rust systems programming, algorithms & data structures
-- 🧩 500+ LeetCode problems solved · Rating 1650
+- 🧠 Core focus: C/C++ systems programming, algorithms & data structures
 - 🤖 Exploring: Python and machine learning
 - 📍 Budapest, Hungary / Tbilisi, Georgia
 - 🌱 Open to junior/entry-level opportunities
@@ -61,8 +60,4 @@
   <a href="https://leetcode.com/u/ronioz" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ronioz&style=for-the-badge&color=2c5364" alt="Profile views"/>
-</p>
+</p
