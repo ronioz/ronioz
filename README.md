@@ -2,7 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/ronioz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=560&lines=Building+things+from+scratch+in+C++%2B%2B;Dijkstra's+algorithm+%E2%86%92+chess+engines+%E2%86%92+audio+DSP;Currently+exploring+machine+learning" alt="Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7FDBFF&center=true&vCenter=true&width=620&lines=Building+things+from+scratch+in+C%2B%2B;Dijkstra%27s+algorithm+%E2%86%92+chess+engines+%E2%86%92+audio+DSP;500%2B+LeetCode+problems+solved">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=620&lines=Building+things+from+scratch+in+C%2B%2B;Dijkstra%27s+algorithm+%E2%86%92+chess+engines+%E2%86%92+audio+DSP;500%2B+LeetCode+problems+solved" alt="Typing SVG" />
+    </picture>
   </a>
 </p>
 
@@ -10,6 +13,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
@@ -17,13 +21,21 @@
 
 ### About
 
-I'm a student building a foundation in classical algorithms and systems-level programming — implementing things from the ground up rather than relying on high-level abstractions. My recent work spans graph algorithms, game engines, and real-time audio processing, and I'm now branching into Python and machine learning fundamentals.
-
-- 🎓 Currently studying Computer Science
-- 🧠 Core focus: data structures, algorithms, and C/C++ fundamentals
-- 🤖 Exploring: Python and AI/ML
-- 📍 Based in Budapest, Hungary
+- 🎓 BSc Computer Science @ **Eötvös Loránd University**, Budapest — Stipendium Hungaricum scholar, GPA 4.9/5.0
+- 💼 Software Engineering Intern @ **Credo Bank** (Summer 2026)
+- 🧠 Core focus: C/C++/Rust systems programming, algorithms & data structures
+- 🧩 500+ LeetCode problems solved · Rating 1650
+- 🤖 Exploring: Python and machine learning
+- 📍 Budapest, Hungary / Tbilisi, Georgia
 - 🌱 Open to junior/entry-level opportunities
+
+---
+
+### 💼 Experience
+
+**Software Engineering Intern — Credo Bank** · Jul – Aug 2026
+- Built a Python pipeline to automate documentation generation for .NET projects using the Cursor CLI
+- Integrated the pipeline with Apidog Enterprise for automatic documentation upload
 
 ---
 
@@ -31,9 +43,9 @@ I'm a student building a foundation in classical algorithms and systems-level pr
 
 | Project | Description | Stack |
 |---|---|---|
+| [**chess-engine**](https://github.com/ronioz/chess-engine) | High-performance chess engine using Magic Bitboards for board representation, optimized for cache locality and fast move generation | `C++` |
 | [**dijkstra**](https://github.com/ronioz/dijkstra) | From-scratch implementation of Dijkstra's shortest-path algorithm | `C` |
-| [**chess-engine**](https://github.com/ronioz/chess-engine) | A chess engine covering board representation, move generation, and search | `C++` |
-| [**Audio-Pedals**](https://github.com/ChokoGiorgi/Audio-Pedals) *(contributor)* | Digital pedalboard with a real-time audio processing engine | `C++` |
+| [**Audio-Pedals**](https://github.com/ChokoGiorgi/Audio-Pedals) *(co-developer)* | Modular digital guitar pedalboard — signal-processing engine reading an input audio file and rendering a processed WAV output | `C++` |
 
 ---
 
@@ -46,4 +58,11 @@ I'm a student building a foundation in classical algorithms and systems-level pr
   <a href="https://www.linkedin.com/in/andronosipov/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://leetcode.com/u/ronioz" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ronioz&style=for-the-badge&color=2c5364" alt="Profile views"/>
 </p>
