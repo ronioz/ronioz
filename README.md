@@ -14,14 +14,14 @@ I'm looking for junior / entry-level software engineering roles.
 
 ## Projects
 
-**[chess-engine](https://github.com/ronioz/chess-engine)** · C++
-A chess engine built on magic bitboards. Perft runs at [X]M nodes/s, and it plays at roughly [Y] Elo.
+**[chess-engine](https://github.com/ronioz/chess-engine)** · C++20
+A UCI chess engine. Legal move generation uses bitboards with check and pin masks. Search is negamax alpha-beta with iterative deepening, quiescence and a Zobrist-hashed transposition table. Perft node counts match the published reference values, and move generation runs at about 56M nodes/s single-threaded on an M3.
 
 **[Audio-Pedals](https://github.com/ChokoGiorgi/Audio-Pedals)** · C++
 A digital guitar pedalboard that reads raw audio, runs it through a chain of effects, and writes the result to WAV. Built with [@ChokoGiorgi](https://github.com/ChokoGiorgi). My part was [the effects you wrote / the processing pipeline].
 
 **[dijkstra](https://github.com/ronioz/dijkstra)** · C
-Dijkstra's shortest-path algorithm written from scratch in plain C.
+Dijkstra's shortest-path algorithm in plain C, with a hand-written dynamic array and binary min-heap standing in for the STL. It runs in O(E log V) with lazy deletion and frees every allocation.
 
 ## Experience
 
